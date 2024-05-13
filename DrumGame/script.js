@@ -8,19 +8,24 @@ for( let i = 0 ; i<Allbtns.length; i++){
             audioElement.play();
             break;
             case "2" : 
-            console.log("I am btn", letter);
+            var audioElement = new Audio("sounds/tom.mp3");
+            audioElement.play();
             break;
             case "3" : 
-            console.log("I am btn", letter);
+            var audioElement = new Audio("sounds/tom.mp3");
+            audioElement.play();
             break;
             case "4" : 
-            console.log("I am btn", letter);
+            var audioElement = new Audio("sounds/tom.mp3");
+            audioElement.play();
             break;
             case "5" : 
-            console.log("I am btn", letter);
+            var audioElement = new Audio("sounds/tom.mp3");
+            audioElement.play();
             break;
             case "6" : 
-            console.log("I am btn", letter);
+            var audioElement = new Audio("sounds/tom.mp3");
+            audioElement.play();
             break;
             default: 
             console.log("i am error");
